@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.fluix",
+    "sha256_cert_fingerprints":
+    ["06:47:B0:D2:36:6A:CB:80:DB:24:09:91:8C:47:69:10:F8:91:CE:27:37:CC:17:A7:2E:7F:23:A4:03:4A:59:3C"]
+  }
+}]
